@@ -1,0 +1,2 @@
+cc -I/usr/X11R6/include -L/usr/X11R6/lib -L/usr/local/lib  -o warp mrraymondwarp.c -lglut -lGL -lGLU -lX11 -lSOIL -framework CoreFoundation
+
